@@ -15,7 +15,7 @@ Hands-on visualizers and utilities for the STM32MP25x secure boot training cours
 ```
 stm32mp2_tools/
 ├── index.html                      ← landing page
-├── bsec-lifecycle/                  ← tool 1
+├── bsec-lifecycle/                 ← tool 1
 │   ├── src/App.jsx
 │   ├── index.html
 │   ├── package.json
